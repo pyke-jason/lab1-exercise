@@ -8,5 +8,4 @@
 - *OneStar*
 - **Two Star**
 - _Underscores_
-- 'punctuation symbol'
-- 
+- `punctuation symbol`
